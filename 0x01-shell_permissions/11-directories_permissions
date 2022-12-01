@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmo -R a+x
+sudo chmo -R ugo+x
