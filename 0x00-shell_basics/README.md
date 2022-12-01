@@ -1,1 +1,1 @@
-# # # 0x0. Shell, basics
+# 0x0. Shell, basics
